@@ -149,7 +149,7 @@ DISEASE_COUNT_THRESHOLD= 1
 
 Segmentation model was used to guide extraction of organ-specific patches from CT volumes for subsequent classification. Figure below shown the overall classification pipeline used in this study.
 
-![report_text.PNG](ReadMeFigure/workflow_cnn.png)
+![report_text.PNG](ReadMeFigure/fig_2a.png)
 |:--:|    
 | **Overall classification framework.** |
 
